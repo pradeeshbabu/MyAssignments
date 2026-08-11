@@ -1,2 +1,2 @@
 # MyAssignments
-Daily Assignments
+Home Assignments
